@@ -1,5 +1,4 @@
-::: {align="center"}
-`<img src="assets/banner.png" alt="SSL-BYPASS — Ami-Villain" width="100%">`{=html}
+
 
 # 🔥 SSL-BYPASS
 
